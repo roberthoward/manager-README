@@ -1,5 +1,5 @@
 # manager-README
-I am Rob Howard, Director of Technology for the Digital Marketing Platform at Thomson Reuters. I am a native of Dallas, Texas in the United States and headquartered at the Carrollton - Thomson Reuters HQ office in the Central time zone (CST). Please view this README as a representation of my managerial philosophy.
+I am Rob Howard, Director of Technology for the Digital Marketing Platform at Thomson Reuters within the [Digital and Service Technology](https://thehub.thomsonreuters.com/groups/dxp) - DEP (Digital, Employee & Partner) Technology group. I am a native of Dallas, Texas in the United States and headquartered at the Carrollton - Thomson Reuters HQ office in the Central time zone (CST). Please view this README as a representation of my managerial philosophy.
 
 It's going to take a solid quarter to fully figure our working relationship out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all the TR acronyms, cross-functional teams, and project code names.
 
