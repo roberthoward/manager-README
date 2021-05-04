@@ -46,9 +46,9 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 **My definition of a meeting includes an agenda and/or intended purpose,** the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer to start on time. If I am running a meeting, I will start that meeting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance.
 
-**Importance of virtual meeting video** Love it or hate it, video is important to your career, and you'll need to use it regularly and turn it on - perhaps more than you want to - for a number of reasons. 1) Video demonstrates responsibility, video demonstrates confidence, 3) video builds trust and rapport, 4) video helps you engage, 5) video makes you memorable, and 6) video sets the meeting's tone.
+**Importance of virtual meeting video.** Love it or hate it, video is important to your career, and you'll need to use it regularly and turn it on - perhaps more than you want to - for a number of reasons. 1) Video demonstrates responsibility, video demonstrates confidence, 3) video builds trust and rapport, 4) video helps you engage, 5) video makes you memorable, and 6) video sets the meeting's tone.
 
-**Pre meeting deck reviews** If you send me a presentation deck a reasonable amount of time before a meeting (at least a day or 2), I will read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
+**Pre-meeting information review** If you send me a presentation deck a reasonable amount of time before a meeting (at least a day or 2), I will read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
 **If a meeting completes its intended purpose before its scheduled to end, let’s give the time back to everyone.** If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
 
