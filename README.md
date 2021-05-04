@@ -11,6 +11,14 @@ I urge you to hold me accountable to my promises, and to call out anything that 
 
 Having been inspired by various posts on the importance of transparency, communication and openness from the leadership side of engineering, I’ve decided to kick things off here with a living document to aid development of our relationship. An accompanying PowerPoint deck is also available for [review here](https://trten-my.sharepoint.com/:p:/g/personal/rob_howard_thomsonreuters_com/ETbwKYE_TBtLsVHv48-vNPYBQ9wFxTkoTe7Oc8VZgamssA?e=DGWpJB).
 
+# Contact Information
+- Work Email: rob.howard@thomsonreuters.com
+- Work Phone: (214) 412-8107
+- TheHub: https://thehub.thomsonreuters.com/people/0172450
+- LinkedIn: https://www.linkedin.com/in/mrhoward/
+- Carrollton Office - 2395 Midway Rd, Carrollton, TX 75006
+
+
 
 # First off, welcome! 
 
