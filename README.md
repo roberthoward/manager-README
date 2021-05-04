@@ -17,11 +17,10 @@ Having been inspired by various posts on the importance of transparency, communi
 - TheHub: https://thehub.thomsonreuters.com/people/0172450
 - LinkedIn: https://www.linkedin.com/in/mrhoward/
 - Carrollton Office - 2395 Midway Rd, Carrollton, TX 75006
-
+- Work Hours: Monday - Friday | 8am - 5pm CST
 
 
 # First off, welcome! 
-
 This README is an earnest, incomplete (we never stop growing) and concise guide. It sets both my expectations for you and a base-line for your expectations of me. If you like the general thinking behind this document, please create one for yourself. It can go well beyond just the working relationship with me and your peers and provide a good jumping off point for conversations around self-awareness.
 
 I wrote this document to share my expectations on what would make it most effective to work together, and so that you can hold me accountable for it. Use this document as an intro into my mind and how I like to operate: my mental and operational frameworks. I believe that these topics would help you become more effective and reduce managerial overhead on my side.
