@@ -74,7 +74,7 @@ If you send me a presentation deck a reasonable amount of time before a meeting 
 # What do I value most?
 * **I know it's hard to believe, but I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Try not to confuse my quiet with lack of engagement.
 
-* **When the 1:1 feels over, and there is remaining time** I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
+* **When the Operational 1:1 touchpoint feels over, and there is remaining time** I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
 
 * **When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
@@ -92,11 +92,11 @@ If you send me a presentation deck a reasonable amount of time before a meeting 
 
 
 # Our Average Week
-* We’ll have a 1:1 according to schedule for at least 30 minutes except during HIGH ALERT (See below). This meeting discusses topics of substance, not updates. We can leverage our private Teams channel for the two us of to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, we dump it in the chat.
+* We’ll have operational 1:1 touchpoints according to schedule for at least 30 minutes except during HIGH ALERT (See below). This meeting discusses topics of substance, not updates. We can leverage our running shared doc for the two us of to capture future topics for our operational touchpoints as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, we can dump it into the document.
 
-* For the leads. We’ll have weekly leadership staff meetings with your peers every week for 30 minutes no matter what. Unlike 1:1s, we have a shared document that captures agenda topics for the leads team. Similar to 1:1s, we aren’t discussing status at this meeting, but successes and issues of substance that affect the whole team.
+* For leads. We’ll have weekly leadership staff meetings with your peers every week for 30 minutes no matter what. Unlike operational 1:1s, we have a shared document or dashboard that captures agenda topics for discussion. Similar to operational touchpoints, we aren’t discussing status at this meeting, but successes and issues of substance that affect the team.
 
-* You can send Teams messages to me during my office hours (10:00am - 6pm ET). I like responding quickly unless I am in a meeting or in deep thought.
+* You can send Teams messages to me during my office hours (10:00am - 6pm ET). I like responding quickly unless I am in a meeting or in deep thought. I typically check my email at the start of my day, mid-way through, and an hour before the end of the day.
 
 * If I am traveling, I will give you notice of said travel in advance. All our meetings still occur albeit with time zone considerations.
 
