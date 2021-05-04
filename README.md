@@ -11,6 +11,7 @@ I urge you to hold me accountable to my promises, and to call out anything that 
 
 Having been inspired by various posts on the importance of transparency, communication and openness from the leadership side of engineering, I’ve decided to kick things off here with a living document to aid development of our relationship.
 
+
 # First off, welcome! 
 
 This README is an earnest, incomplete (we never stop growing) and concise guide. It sets both my expectations for you and a base-line for your expectations of me. If you like the general thinking behind this document, please create one for yourself. It can go well beyond just the working relationship with me and your peers and provide a good jumping off point for conversations around self-awareness.
@@ -97,26 +98,27 @@ If a meeting completes its intended purpose before its scheduled to end, let’s
 
 * If I am traveling, I will give you notice of said travel in advance. All our meetings still occur albeit with time zone considerations.
 
-I typically reserve weekends strictly for family time and to evolve my technical skills. This is my choice. I do not expect that you are going to work or conduct your learnings on the weekend. I might email you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
+* I typically reserve weekends strictly for family time and to evolve my technical skills. This is my choice. I do not expect that you are going to work or conduct your learnings on the weekend. I might email you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
 
-I take vacations. You should, too. Disconnected from work is when I do some of my best work.
+* I take vacations. You should, too. Disconnected from work is when I do some of my best work.
 
-#North Star Principles
-**Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards action and building productive humans.
 
-**Leadership comes from everywhere.** My wife likes to remind me that I hated meetings for the first ten years of my professional career. She’s right. I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead.
+# North Star Principles
+* **Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards action and building productive humans.
 
-**I see things as systems.** I reduce all complex things (including humans) into systems. I think in flow charts and pictures. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
+* **Leadership comes from everywhere.** My wife likes to remind me that I hated meetings for the first ten years of my professional career. She’s right. I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead.
 
-**It is important to me that humans are treated fairly.** I believe that most humans are trying to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity.
+* **I see things as systems.** I reduce all complex things (including humans) into systems. I think in flow charts and pictures. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
 
-**I am heavily biased towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
+* **It is important to me that humans are treated fairly.** I believe that most humans are trying to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity.
 
-**I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
+* **I am heavily biased towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
 
-**I start with an assumption of positive intent for all involved.** This has worked out well for me over my career.
+* **I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
 
-**I need you to know that sometimes we are on HIGH ALERT and things will get strange.** There is an exception to many of my practices and principles and that is when we are in a HIGH ALERT situation. HIGH ALERT conditions usually involve existential threats to our company and its assets. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when we’ll be done. If I am constantly in this state, something is fundamentally wrong.
+* **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career.
+
+* **I need you to know that sometimes we are on HIGH ALERT and things will get strange.** There is an exception to many of my practices and principles and that is when we are in a HIGH ALERT situation. HIGH ALERT conditions usually involve existential threats to our company and its assets. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when we’ll be done. If I am constantly in this state, something is fundamentally wrong.
 
 
 # Taking Time Off
@@ -125,6 +127,7 @@ I take vacations. You should, too. Disconnected from work is when I do some of m
 * If you're not feeling well, I advise to communicate with your team leads, immediate scrum team, delivery manager to let them know you're feeling ill, followed by and update to our main teams chat and Workday request. It is important that you communicate when you'll be unavailable. Sometimes it may take time for me to approve the request in WorkDay, but rest assured if you're sick take the time off and once I have the opportunity to manage the Workday request, I will approve the sick request.
 * Please for vacations and other schedule time off, please request in WorkDay at least 2 weeks in advance after speaking with your tech lead, immediate scrum team, and delivery manager. I will ask you if you've completed these steps first and once I have received this updated information I then will approve. Once approved, please immediately block the time out in your calendar which will help to prevent others from scheduling meetings when you're out. 
 * If you're looking to schedule more than a single week off at a time, let's discuss first (reach out via teams or email) and please ensure your tech lead and immediate delivery team is aware prior to submitting the request. 
+
 
 # Personality quirks
 * I discuss with “passion” - I may appear to raise my voice a little I've been told. I don’t like it about myself, and I try to improve. I tell myself that “I’m all-in, all the time” but it’s just me losing my temper. When you feel I crossed the line, please tell me. It’s not my intent.
@@ -138,4 +141,7 @@ I take vacations. You should, too. Disconnected from work is when I do some of m
 * I have strong opinions, weakly held.  I love to debate and hear all positions, understand and see an issue from all sides.  Question everything I say, we’ll all be better for it.
 * I care about my words and endeavor to choose them carefully.  I take this too far sometimes, overthinking my words at times.  
 * I love to brainstorm and often ask for feedback on ideas.  I may forget to explain this, so always assume I’m brainstorming with you. I default to clarity when giving direction, not when brainstorming. This is especially important when I get crazy ideas.
+
+
+Thank you for taking the time to review my README. This document is new and still a work in progress. I’d love your feedback
 
