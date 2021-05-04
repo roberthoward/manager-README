@@ -18,7 +18,7 @@ This README is an earnest, incomplete (we never stop growing) and concise guide.
 
 I wrote this document to share my expectations on what would make it most effective to work together, and so that you can hold me accountable for it. Use this document as an intro into my mind and how I like to operate: my mental and operational frameworks. I believe that these topics would help you become more effective and reduce managerial overhead on my side.
 
-We’ll spend our schedules 1:1s to get to know each other a bit better, of course.
+We’ll spend our operational touchpoints to get to know each other a bit better, of course.
 
 In short, I want you to get to know me a little bit and make sure you know how I think and work.
 
