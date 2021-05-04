@@ -9,7 +9,7 @@ This is my Manager README, a document that helps introduce you to my management 
 
 I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a manager and leader.
 
-Having been inspired by various posts on the importance of transparency, communication and openness from the leadership side of engineering, I’ve decided to kick things off here with a living document to aid development of our relationship.
+Having been inspired by various posts on the importance of transparency, communication and openness from the leadership side of engineering, I’ve decided to kick things off here with a living document to aid development of our relationship. An accompanying PowerPoint deck is also available for [review here](https://trten-my.sharepoint.com/:p:/g/personal/rob_howard_thomsonreuters_com/ETbwKYE_TBtLsVHv48-vNPYBQ9wFxTkoTe7Oc8VZgamssA?e=DGWpJB).
 
 
 # First off, welcome! 
@@ -143,5 +143,6 @@ If a meeting completes its intended purpose before its scheduled to end, let’s
 * I love to brainstorm and often ask for feedback on ideas.  I may forget to explain this, so always assume I’m brainstorming with you. I default to clarity when giving direction, not when brainstorming. This is especially important when I get crazy ideas.
 
 
+# Thank You
 Thank you for taking the time to review my README. This document is new and still a work in progress. I’d love your feedback
 
