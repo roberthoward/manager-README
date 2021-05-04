@@ -17,7 +17,7 @@ Having been inspired by various posts on the importance of transparency, communi
 - TheHub: https://thehub.thomsonreuters.com/people/0172450
 - LinkedIn: https://www.linkedin.com/in/mrhoward/
 - Carrollton Office - 2395 Midway Rd, Carrollton, TX 75006
-- Work Hours: Monday - Friday | 8am - 5pm CST
+- Work Hours: Monday - Friday (8am - 5pm CST)
 
 
 # First off, welcome! 
