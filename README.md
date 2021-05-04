@@ -42,13 +42,15 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 
 # Meetings
-I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
+**I go to a lot of meetings.** I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
-My definition of a meeting includes an agenda and/or intended purpose, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer to start on time. If I am running a meeting, I will start that meeting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance.
+**My definition of a meeting includes an agenda and/or intended purpose,** the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer to start on time. If I am running a meeting, I will start that meeting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance.
 
-If you send me a presentation deck a reasonable amount of time before a meeting, I will read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
+If you send me a presentation deck a reasonable amount of time before a meeting (at least a day or 2), I will read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
-If a meeting completes its intended purpose before its scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
+**If a meeting completes its intended purpose before its scheduled to end, let’s give the time back to everyone.** If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
+
+**Please check your calendar for day of meetings.** I promise that I will do everything in my power to avoid sending last minute meetings to your calendar. With that said, there will often be times that meetings will appear last minute and you may be required to attend due to the nature of the meeting. I typically will include information in the foward stating if the meeting is required or optional. If you're unable to attend due to conflicting schedules, please notify me via Teams or email of your unavailability. 
 
 
 # Career Development
