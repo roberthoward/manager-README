@@ -13,7 +13,7 @@ Having been inspired by various posts on the importance of transparency, communi
 
 # Contact Information
 - Work Email: rob.howard@thomsonreuters.com
-- Work Phone: (214) 412-8107
+- Work Phone/SMS: (214) 412-8107
 - TheHub: https://thehub.thomsonreuters.com/people/0172450
 - LinkedIn: https://www.linkedin.com/in/mrhoward/
 - Carrollton Office - 2395 Midway Rd, Carrollton, TX 75006
