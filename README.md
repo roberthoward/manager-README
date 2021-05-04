@@ -1,12 +1,9 @@
-# manager-README
-I am Rob Howard, Director of Technology for the Digital Marketing Platform at Thomson Reuters. This is a representation of my managerial philosophy.
+#manager-README
+I am Rob Howard, Director of Technology for the Digital Marketing Platform at Thomson Reuters. I am a native of Dallas, Texas in the United States and headquartered in the Carrollton - Thomson Reuters HQ office in the Central time zone (CST). Please view this README as a representation of my managerial philosophy.
 
-It’s going to take a solid quarter to fully figure our working relationship out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all the TR acronyms, cross-functional teams, and project code names.
+It's going to take a solid quarter to fully figure our working relationship out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all the TR acronyms, cross-functional teams, and project code names.
 
 One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.
-
-
-**Manager README**
 
 This is my Manager README, a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports in to me, though anyone is free to read it - or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager and leader, and what I expect from you.
 
@@ -14,7 +11,7 @@ I urge you to hold me accountable to my promises, and to call out anything that 
 
 Having been inspired by various posts on the importance of transparency, communication and openness from the leadership side of engineering, I’ve decided to kick things off here with a living document to aid development of our relationship.
 
-First off, welcome! 
+#First off, welcome! 
 
 This README is an earnest, incomplete (we never stop growing) and concise guide. It sets both my expectations for you and a base-line for your expectations of me. If you like the general thinking behind this document, please create one for yourself. It can go well beyond just the working relationship with me and your peers and provide a good jumping off point for conversations around self-awareness.
 
@@ -31,7 +28,7 @@ This is a living document, which will change. Please let me know if you have any
 Welcome to my User Guide to Working with me! I offer this to you because I recognize that the faster we get to know each other and how we work, the better and stronger our relationship will be, and the more we’ll accomplish together. I encourage you to write your own User Guide so I and your team can learn how to work best with you. This is a living document that will change as I learn more about myself and how we can best support each other.
 
 
-**Feedback**
+#Feedback
 I firmly believe that feedback is at the core of building trust and respect in a team.
 
 At Thomson Reuters, there is a formal feedback cycle that occurs twice a year. The first time we go through this cycle, we’ll draft a proposed set of OKRs for you for the next review period. These are not product or technology OKRs; these are professional growth OKRs for you. I’ll send you these draft OKRs as well as upward feedback from your team before we meet so you can review them beforehand.
@@ -43,7 +40,7 @@ Review periods are not the only time we’ll exchange feedback. This will be a r
 Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
 
 
-**Meetings**
+#Meetings
 I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
 My definition of a meeting includes an agenda and/or intended purpose, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer to start on time. If I am running a meeting, I will start that meeting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance.
@@ -53,14 +50,14 @@ If you send me a presentation deck a reasonable amount of time before a meeting,
 If a meeting completes its intended purpose before its scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
 
 
-**Career Development**
-	• Your career is yours.
-	• I will coach, I will offer feedback.
-	• I will provide you with outside perspective. You may know where you want to be, but when you’re living it in the moment it can be hard to see if there’s a gap and where.
-	• I will partner with you to line up the opportunities needed for the growth you are targeting.
-	• But at the end of the day, it’s your career. You set your goals. You set your priorities. You determine whether you make the time to get there.
-	• I try very hard to hire leaders that I would like to work for myself and are meaningfully better than me at the function you lead. As a result, it’s unlikely I will be a mentor to you in your role. My biggest value to you is to be a strong vocal advocate for your success, get you the resources you need to be successful, empower you to make impact without friction, remove any blockers to your success, lead and foster collaboration amongst the leadership team to align on a strategy that maximizes our impact, and surround you with a team of peers that inspire you. You are the top person in the company in your function and my role as a mentor can be to 1) give you transparency into my role if you endeavor to become a Manager/Director, 2) help connect you with people in the company that are leaders in your function, 3) change your role to help you change/increase your scope of responsibility/influence if you are performing and that is your goal, 4) create an environment where you can perform and feel fulfilled. I commit to doing all of these and expect you to hold me accountable if you don’t feel sufficiently supported. 
-	• I’m highly results-oriented and as a result, it’s not my first instinct to focus on professional development. I will do my best, but it will benefit you to clearly communicate your professional goals
+#Career Development
+*Your career is yours.
+*I will coach, I will offer feedback.
+*I will provide you with outside perspective. You may know where you want to be, but when you’re living it in the moment it can be hard to see if there’s a gap and where.
+*I will partner with you to line up the opportunities needed for the growth you are targeting.
+*But at the end of the day, it’s your career. You set your goals. You set your priorities. You determine whether you make the time to get there.
+*I try very hard to hire leaders that I would like to work for myself and are meaningfully better than me at the function you lead. As a result, it’s unlikely I will be a mentor to you in your role. My biggest value to you is to be a strong vocal advocate for your success, get you the resources you need to be successful, empower you to make impact without friction, remove any blockers to your success, lead and foster collaboration amongst the leadership team to align on a strategy that maximizes our impact, and surround you with a team of peers that inspire you. You are the top person in the company in your function and my role as a mentor can be to 1) give you transparency into my role if you endeavor to become a Manager/Director, 2) help connect you with people in the company that are leaders in your function, 3) change your role to help you change/increase your scope of responsibility/influence if you are performing and that is your goal, 4) create an environment where you can perform and feel fulfilled. I commit to doing all of these and expect you to hold me accountable if you don’t feel sufficiently supported. 
+*I’m highly results-oriented and as a result, it’s not my first instinct to focus on professional development. I will do my best, but it will benefit you to clearly communicate your professional goals
 
 “No one hands you personal growth here; but it's there for the taking. It's being able to try hard things; that you might not succeed at every time. It's seeing the practices of the talented people around you; practices that you're free to steal. Or it's the advice that others will give to you; advice that you didn't always ask for but is usually a good idea to take.”
   - Steven Noble
@@ -72,32 +69,32 @@ I’ll do my best to provide growth and learning opportunities, it’ll be up to
 At the end of the day, it is your career. You set your goals. You set your priorities. Let me know how I can help you achieve them.
 
 
-**What do I value most?**
-**I know it's hard to believe, but I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Try not to confuse my quiet with lack of engagement.
+#What do I value most?
+* **I know it's hard to believe, but I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Try not to confuse my quiet with lack of engagement.
 
-**When the 1:1 feels over, and there is remaining time** I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
+* **When the 1:1 feels over, and there is remaining time** I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
 
-**When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
+* **When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
-**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Rob, can you help me with X?”). I respond poorly to being told what to do (“Rob, do X and I expect it to be done by the end of the week.”) I have been this way since I was a kid growing up.
+* **Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Rob, can you help me with X?”). I respond poorly to being told what to do (“Rob, do X and I expect it to be done by the end of the week.”) I have been this way since I was a kid growing up.
 
-**I can sometimes go on and on and over time in our discussions,** my spouse and children remind me of this all the time - but it’s almost always because I am excited about the topic, if this happens and I'm cutting into time you need, please don't hesitate to jump in and tell me that you have to run. I also swear sometimes. Sorry :).
+* **I can sometimes go on and on and over time in our discussions,** my spouse and children remind me of this all the time - but it’s almost always because I am excited about the topic, if this happens and I'm cutting into time you need, please don't hesitate to jump in and tell me that you have to run. I also swear sometimes. Sorry :).
 
-I love to start new things but I often lose interest when I can mentally see how the thing is going to finish which might be weeks or months before the thing is actually done. Sorry. I’m working on this.
+* I love to start new things but I often lose interest when I can mentally see how the thing is going to finish which might be weeks or months before the thing is actually done. Sorry. I’m working on this.
 
-If I am on my phone during a meeting for more than 30 seconds, say something. My attention wanders.
+* If I am on my phone during a meeting for more than 30 seconds, say something. My attention wanders.
 
-Humans stating opinions as facts are a trigger for me.
+* Humans stating opinions as facts are a trigger for me.
 
-Humans who dwell on problems in a negative fashion, with no clear or apparent path towards providing solutions are a trigger for me.
+* Humans who are good at identifying problems, but lowsy at identifying solutions are also a trigger for me.
 
 
-**Our Average Week**
-We’ll have a 1:1 according to schedule for at least 30 minutes except during HIGH ALERT (See below). This meeting discusses topics of substance, not updates. I’ve created a private Slack channel for the two us of to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, we dump it in that channel.
+#Our Average Week
+*We’ll have a 1:1 according to schedule for at least 30 minutes except during HIGH ALERT (See below). This meeting discusses topics of substance, not updates. We can leverage our private Teams channel for the two us of to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, we dump it in the chat.
 
-We’ll have a staff meeting with your peers every week for 60 minutes no matter what. Unlike 1:1s, we have a shared document that captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team.
+*For the leads. We’ll have weekly leadership staff meetings with your peers every week for 30 minutes no matter what. Unlike 1:1s, we have a shared document that captures agenda topics for the leads team. Similar to 1:1s, we aren’t discussing status at this meeting, but successes and issues of substance that affect the whole team.
 
-You can send Teams messages to me during office hours a day. I like responding quickly unless I am in a meeting or in deep thought.
+You can send Teams messages to me during my office hours (10:00am - 6pm ET). I like responding quickly unless I am in a meeting or in deep thought.
 
 If I am traveling, I will give you notice of said travel in advance. All our meetings still occur albeit with time zone considerations.
 
@@ -105,7 +102,7 @@ I typically reserve weekends strictly for family time and to evolve my technical
 
 I take vacations. You should, too. Disconnected from work is when I do some of my best work.
 
-**North Star Principles**
+#North Star Principles
 **Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards action and building productive humans.
 
 **Leadership comes from everywhere.** My wife likes to remind me that I hated meetings for the first ten years of my professional career. She’s right. I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead.
@@ -123,17 +120,16 @@ I take vacations. You should, too. Disconnected from work is when I do some of m
 **I need you to know that sometimes we are on HIGH ALERT and things will get strange.** There is an exception to many of my practices and principles and that is when we are in a HIGH ALERT situation. HIGH ALERT conditions usually involve existential threats to our company and its assets. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when we’ll be done. If I am constantly in this state, something is fundamentally wrong.
 
 
-**Personality quirks**
-	• I discuss with “passion” - I may appear to raise my voice a little I've been told. I don’t like it about myself, and I try to improve. I tell myself that “I’m all-in, all the time” but it’s just me losing my temper. When you feel I crossed the line, please tell me. It’s not my intent.
-	• When you ask “do you have 5 minutes?” in Teams or email, please add the topic you’d like to discuss, otherwise, I’ll think “do you have 5 minutes for me to tell you I’m thinking of quitting.” -- we’re biased for bad news and I’m not different.
-	• From the Tech leaders in the org I expect to create the reality they’d like to see - tell me what you plan to do, instead of waiting for me to offer a way or shape reality for you. If you’re stuck, tell me and I’ll help. You’re the driver.
-	• I am a big believer in “no broken windows” when building products: I like clean logs, clean exceptions, clean PagerDuty. Once things go south here it’s very hard to truly understand the health of the system. 
-	• I tend to write direct to the point and save longer discussions for a call to scale my time. I can be hard to read: This is not intentional. I mean what I say. A non-response means I do not have a response (and also no judgement). If you are unsure what I’m thinking, just ask (again, transparency)
-	• I can get stressed out: When this happens, I may be short, or slow to respond with you. Please call me out on it if you feel this is happening and I will address it.
-	• I have a tendency to try to solution: In discussions, I can keep pushing a point because I think it’s right, not because it objectively is. Please call me out on it if you feel this is happening and I will address it.
-	• I have had problems in the past with not doing a good job sharing knowledge: When I first started managing, I would not pass on knowledge of systems. I would take certain pieces of complex work because it was easiest for me to do it. This disempowers the team. This prevents you from having the opportunity to grow. This makes me stressed out
-	• I have strong opinions, weakly held.  I love to debate and hear all positions, understand and see an issue from all sides.  Question everything I say, we’ll all be better for it.
-	• I care about my words and endeavor to choose them carefully.  I take this too far sometimes, overthinking my words at times.  
-	• I love to brainstorm and often ask for feedback on ideas.  I may forget to explain this, so always assume I’m brainstorming with you. I default to clarity when giving direction, not when brainstorming. This is especially important when I get crazy ideas.
-![image](https://user-images.githubusercontent.com/4334410/117016637-83cad480-acb8-11eb-8a93-8a6d4a47047a.png)
+#Personality quirks
+*I discuss with “passion” - I may appear to raise my voice a little I've been told. I don’t like it about myself, and I try to improve. I tell myself that “I’m all-in, all the time” but it’s just me losing my temper. When you feel I crossed the line, please tell me. It’s not my intent.
+*When you ask “do you have 5 minutes?” in Teams or email, please add the topic you’d like to discuss, otherwise, I’ll think “do you have 5 minutes for me to tell you I’m thinking of quitting.” -- we’re biased for bad news and I’m not different.
+*From the Tech leaders in the org I expect to create the reality they’d like to see - tell me what you plan to do, instead of waiting for me to offer a way or shape reality for you. If you’re stuck, tell me and I’ll help. You’re the driver.
+*I am a big believer in “no broken windows” when building products: I like clean logs, clean exceptions, clean PagerDuty. Once things go south here it’s very hard to truly understand the health of the system. 
+*I tend to write direct to the point and save longer discussions for a call to scale my time. I can be hard to read: This is not intentional. I mean what I say. A non-response means I do not have a response (and also no judgement). If you are unsure what I’m thinking, just ask (again, transparency)
+*I can get stressed out: When this happens, I may be short, or slow to respond with you. Please call me out on it if you feel this is happening and I will address it.
+*I have a tendency to try to solution: In discussions, I can keep pushing a point because I think it’s right, not because it objectively is. Please call me out on it if you feel this is happening and I will address it.
+*I have had problems in the past with not doing a good job sharing knowledge: When I first started managing, I would not pass on knowledge of systems. I would take certain pieces of complex work because it was easiest for me to do it. This disempowers the team. This prevents you from having the opportunity to grow. This makes me stressed out
+*I have strong opinions, weakly held.  I love to debate and hear all positions, understand and see an issue from all sides.  Question everything I say, we’ll all be better for it.
+*I care about my words and endeavor to choose them carefully.  I take this too far sometimes, overthinking my words at times.  
+*I love to brainstorm and often ask for feedback on ideas.  I may forget to explain this, so always assume I’m brainstorming with you. I default to clarity when giving direction, not when brainstorming. This is especially important when I get crazy ideas.
 
