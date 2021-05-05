@@ -71,6 +71,8 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 
 # Meetings
+**Meeting etiquitte** Follow these common rules for proper meeting etiquette: 1) Be punctual. 2) Come prepared. 3) Speak loud enough. 4) Actively listen and participate. 5) Take turns speaking. 6) Follow the agenda. 7) Ask questions at the appropriate time. 8) Be attentive to your body language. 9) Focus, eliminating distractions. 10) If you're hosting a meeting be sure to let everyone know what the meeting is about, followed at the end with concrete action items.
+
 **I go to a lot of meetings.** I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
 **My definition of a meeting includes an agenda and/or intended purpose,** the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer to start on time. If I am running a meeting, I will start that meeting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance.
