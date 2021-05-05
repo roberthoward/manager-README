@@ -12,6 +12,8 @@ I urge you to hold me accountable to my promises, and to call out anything that 
 Having been inspired by various posts on the importance of transparency, communication and openness from the leadership side of engineering, I’ve decided to kick things off here with a living document to aid development of our relationship. An accompanying PowerPoint deck is also available for [review here](https://trten-my.sharepoint.com/:p:/g/personal/rob_howard_thomsonreuters_com/ETbwKYE_TBtLsVHv48-vNPYBQ9wFxTkoTe7Oc8VZgamssA?e=DGWpJB).
 
 # Contact Information
+<img src ="https://github.com/roberthoward/manager-README/blob/main/Rob%20-%20profile.jpg" width="100">
+
 - Work Email: rob.howard@thomsonreuters.com
 - Work Phone/SMS: (214) 412-8107
 - TheHub: https://thehub.thomsonreuters.com/people/0172450
@@ -160,9 +162,22 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 Here are some things I love. If you ever want to shoot the breeze and don't know what to talk about, these are a few good bets :)
 
 * Family and raising a family. My wife, my 2 children (Robbie - age 16 and Jada age 14) along with our 2 furbabies (Rocky and Princess) are my joy and give me life every single day. I'm always happy to pick up new parenting tips as well as sharing tips.
+
+<img src = "https://github.com/roberthoward/manager-README/blob/main/family.jpg" width="200">
+
 * Type 1 Diabetes. My family (my daughter Jada) was diagnosed with this life changing disease in 2015 after my daughter's 8th birthday. Since then, my family and I have been active members of the Junior Diabetes Research Foundation (JDRF) organization where I also serve on the community board.
+
+<img src = "https://github.com/roberthoward/manager-README/blob/main/jdrf-onewalk2017.PNG" width="200">
+
 * Serial Entreprenuership. In my former life, I served as co-founder for several startups. My start up endevors include - DallasPeeps.com, PartyChaser.com, Nupes.com as well as a few other endevors I have under my belt.
-* Diversity and Inclusion. As you may be able to tell, I'm an American and member of the African American community. I can say that I have not been immune to discrimination in this space in my past, but one thing I can say for certain I've never experienced anything of the sorts during my time at TR. I serve as advisor to the local business resource group and implore anyone seeking insight into this community to feel comfortable reaching out to me. I'm always looking at opportunities to conversate and bridge the gap between diversity and inclusion and kicked off a teams channel within Digital called "The Water Cooler" to provide a safe space for people to share things happening in the news affecting different groups, as well as talk about topics that help to bridge the gap. In addition I spend my time on the community board for Blacks In Technology (BIT) DFW as well as Black Tutors of Social Media.
+
+<img src = "https://github.com/roberthoward/manager-README/blob/main/DallasPeeps%20Newspaper%20Cover.jpg" width="200">
+
+* I also spend my time volunteering as a member of Kappa Alpha Psi Fraternity, an African American fraternal organization founded in 1911 on the campus of Indian University, as well as serving as a member of the Mosier Valley Prince Hall Masonry, a branch of North American Freemasonry for African Americans founded by Prince Hall on September 29, 1784.
+
+<img src = "https://github.com/roberthoward/manager-README/blob/main/20190214_121325.jpg" width="200">
+
+* Diversity and Inclusion. As you may be able to tell, I'm an American and member of the African American community and can say that I have not been immune to discrimination  in my past. I serve as advisor to the local Black Employee Network (BEN) Thomson Reuters business resource group. I implore anyone seeking insight into this community to feel comfortable reaching out to me rather it's helping to share a job req to chatting about how you can be an ally. I'm always looking at opportunities to conversate and bridge the gap between diversity and inclusion at TR. I recently kicked off a teams channel within Digital called "The Water Cooler" to provide a safe space for people to share things happening in the news affecting different groups, as well as talk about topics that help to bridge the gap. In addition I spend my time on the community board for Blacks In Technology (BIT) DFW as well as Black Tutors of Social Media.
 * Technology. I'm always trying to stay ahead of the curve in technology and innovation. My weekends, when not spending time with family or friends, is spent learning on sites like udemy.com, coursera.com, educative.io to name a few. I've started to explore Machine Learning and AI (on the surface) and also helping my son in his current pursuit of getting in Computer Science once he lives high school. I aspire to build something that I can learn from so I'm challenging myself with building out an app that includes multiple distributed services.
 
 # Thank You
