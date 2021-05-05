@@ -37,6 +37,26 @@ This is a living document, which will change. Please let me know if you have any
 
 Welcome to my User Guide to Working with me! I offer this to you because I recognize that the faster we get to know each other and how we work, the better and stronger our relationship will be, and the more we’ll accomplish together. I encourage you to write your own User Guide so I and your team can learn how to work best with you. This is a living document that will change as I learn more about myself and how we can best support each other.
 
+# Leadership Philosphy
+
+**Be a lifelong learner**
+* Listen to learn
+* Learn something new everyday
+* Review past learnings so they are not lost
+
+**Be Gritty**
+* Work hard
+* Don't quit, overcome your greatest obstacles
+* Get comfortable being uncomfortable
+* Adjust to change at all times (the only contstant is change)
+* Work through challenges
+
+**Be a Good Person**
+* What would your grandparents think
+* Healthy, rational choices first
+* Team work and etiquette
+* Everything we do is bigger ourselves. Service to our customers is #1
+
 
 # Feedback
 I firmly believe that feedback is at the core of building trust and respect in a team.
