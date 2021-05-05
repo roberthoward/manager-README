@@ -57,7 +57,8 @@ Welcome to my User Guide to Working with me! I offer this to you because I recog
 * What would your grandparents think
 * Healthy, rational choices first
 * Team work and etiquette
-* Everything we do is bigger ourselves. Service to our customers is #1
+* Everything we do is much bigger then ourselves. 
+* Our service to our customers and their experience is number 1!
 
 
 # Feedback
