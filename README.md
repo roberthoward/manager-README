@@ -50,14 +50,14 @@ Welcome to my User Guide to Working with me! I offer this to you because I recog
 * Work hard
 * Don't quit, overcome your greatest obstacles
 * Get comfortable being uncomfortable
-* Adjust to change at all times (the only contstant is change)
+* Adjust to change at all times (the only constant is change)
 * Work through challenges
 
 **Be a Good Person**
 * What would your grandparents think
 * Healthy, rational choices first
 * Team work and etiquette
-* Everything we do is much bigger then ourselves. 
+* Everything we do is much bigger than ourselves. 
 * Our service to our customers and their experience is number 1!
 
 
