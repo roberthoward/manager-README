@@ -110,7 +110,7 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 # What do I value most?
 * **I know it's hard to believe, but I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Try not to confuse my quiet with lack of engagement.
 
-* **Respect and Appreciation**. I always try my best to show the upmost respect when engaging with my co-workers, but if the respect is not recipricated.
+* **Respect and Appreciation**. I always try my best to show the upmost respect when engaging with my co-workers, but if the respect is not recipricated I will gladly share my feedback.
 
 * **When the Operational 1:1 touchpoint feels over, and there is remaining time** I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
 
