@@ -41,6 +41,10 @@ Welcome to my User Guide to Working with me! I offer this to you because I recog
 
 # Leadership Philosphy
 
+** Self-motivated
+** Productive
+** Growth Mindset
+
 **Be a lifelong learner**
 * Listen to learn
 * Learn something new everyday
