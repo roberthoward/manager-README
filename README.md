@@ -1,7 +1,7 @@
 # manager-README
 <img src = "https://github.com/roberthoward/manager-README/blob/main/thomsonreuters_logo.PNG" width="100" ALIGN="left">
 
-I am Rob Howard, Director of Technology for the Digital Marketing Platform at Thomson Reuters within the [Digital and Service Technology](https://thehub.thomsonreuters.com/groups/dxp) - DEP (Digital, Employee & Partner) Technology group. I began my career at Thomson Reuters in 2013 as a software engineer in the Tax & Accounting business segment. I am a native of Dallas, Texas in the United States and headquartered at the Carrollton - Thomson Reuters HQ office in the Central time zone (CST). Please view this README as a representation of my managerial philosophy.
+I am Rob Howard, UX Engineering Director within the Thomson Reuters Design (https://trten.sharepoint.com/sites/DesignOperations) - Design UX Engineering. I began my career at Thomson Reuters in 2013 as a software engineer in the Tax & Accounting business segment. I am a native of Dallas, Texas in the United States and headquartered at the Carrollton - Thomson Reuters HQ office in the Central time zone (CST). Please view this README as a representation of my managerial philosophy.
 
 It's going to take a solid quarter to fully figure our working relationship out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all the TR acronyms, cross-functional teams, and project code names.
 
@@ -78,7 +78,7 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 
 # Meetings
-**Meeting etiquitte** Follow these common rules for proper meeting etiquette: 1) Be punctual. 2) Come prepared. 3) Speak loud enough. 4) Actively listen and participate. 5) Take turns speaking. 6) Follow the agenda. 7) Ask questions at the appropriate time. 8) Be attentive to your body language. 9) Focus, eliminating distractions. 10) If you're hosting a meeting be sure to let everyone know what the meeting is about, followed at the end with concrete action items.
+**Meeting etiquitte** Follow these common rules for proper meeting etiquette: 1) Be punctual. 2) Come prepared. 3) Speak loud enough. 4) Actively listen and participate. 5) Take turns speaking. 6) Follow the agenda. 7) Ask questions at the appropriate time. 8) Be attentive to your body language. 9) Focus, eliminating distractions. 10) If you're hosting a meeting be sure to let everyone know what the meeting is about, followed at the end with concrete action items. If for any reason you have a meeting with me and you need to reschedule or cancel, please notify as early as possible so that we are able to reschedule or cancel.
 
 **I go to a lot of meetings.** I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
@@ -190,7 +190,7 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 # My Interest
 Here are some things I love. If you ever want to shoot the breeze and don't know what to talk about, these are a few good bets :)
 
-* Family and raising a family. My wife, my 2 children (Robbie - age 16 and Jada age 14) along with our 2 furbabies (Rocky and Princess) are my joy and give me life every single day. I'm always happy to pick up new parenting tips as well as sharing tips.
+* Family and raising a family. My wife [parks & rec / community], my 2 children (Robbie [computer science] - age 17 and Jada age 15 [medical, legal] ) along with our furbaby (Princess - age 8 / Rocky - at age 11 passed Jan 2, 2022) are my joy and give me life every single day. I'm always happy to pick up new parenting tips as well as sharing tips.
 
 <img src = "https://github.com/roberthoward/manager-README/blob/main/family.jpg" width="200">
 
