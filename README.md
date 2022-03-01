@@ -55,7 +55,7 @@ Welcome to my User Guide to Working with me! I offer this to you because I recog
 
 # Understanding My Role
 
-[The engineering method is] the strategy for causing the best change in a poorly understood or uncertain situation within the available resources and those resources dependent to deliver QCD (Quality, Cost, and Delivery Speed). How can we have it all, you ask? The Answer: Setting our north star principles on "Quality".
+[The engineering method is] the strategy for causing the best change in a poorly understood or uncertain situation within the available resources and those resources dependent to deliver within QCD (Quality, Cost, and Delivery). How can we have it all, you ask? The Answer: Setting our north star principles on "Quality".
 
 While quality is at the top of the list, there are a number of things I will be responsible for and 2 things that take higher priority than everything else.
 
