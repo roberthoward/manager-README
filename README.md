@@ -163,7 +163,7 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 * Humans stating opinions as facts are a trigger for me.
 
-* Humans who are good at identifying problems, but lowsy at identifying solutions are also a trigger for me.
+* Humans who are good at identifying problems, but lousy at identifying solutions are also a trigger for me.
 
 
 # Our Average Week
@@ -177,7 +177,7 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 * I typically reserve weekends strictly for family time and to evolve my technical skills. This is my choice. I do not expect that you are going to work or conduct your learnings on the weekend. I might email you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
 
-* I take vacations. You should, too. Disconnected from work is when I do some of my best work.
+* I take vacations (and turn off my work phone). You should, too. Disconnected from work is when I do some of my best work. [Note: before I leave I will leave a bat phone number for emergencies with a member of the team]
 
 
 # North Star Principles
