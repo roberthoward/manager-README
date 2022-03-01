@@ -22,7 +22,7 @@ Having been inspired by various posts on the importance of transparency, communi
 - Carrollton Office - 2395 Midway Rd, Carrollton, TX 75006
 - Work Hours: Monday - Friday (9am - 5pm CST*) 
 - Lunch hours: Monday - Friday (11am - noon CST*)
-* denotes typical or attempted
+*denotes typical time or attempted schedule
 
 
 # First off, welcome! 
