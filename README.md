@@ -1,4 +1,4 @@
-# manager-README
+# Leadership-README
 <img src = "https://github.com/roberthoward/manager-README/blob/main/thomsonreuters_logo.PNG" width="100" ALIGN="left">
 
 I am Rob Howard, UX Engineering Director within the Thomson Reuters Design (https://trten.sharepoint.com/sites/DesignOperations) - Design UX Engineering. I began my career at Thomson Reuters in 2013 as a software engineer in the Tax & Accounting business segment. I am a native of Dallas, Texas in the United States and headquartered at the Carrollton - Thomson Reuters HQ office in the Central time zone (CST). Please view this README as a representation of my managerial philosophy.
