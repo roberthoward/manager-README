@@ -59,17 +59,19 @@ Welcome to my User Guide to Working with me! I offer this to you because I recog
 
 While quality is first, there are a number of things I will be responsible for and 2 things that take higher priority than everything else.
 
-The first is empowering the engineers I manage (as well as influencing the engineers I don't manage) to make the biggest impact possible for Thomson Reuters while reaching their professional development goals.
+The first is empowering the engineers I manage (as well as influencing the engineers I don't manage) to make the biggest impact possible for and at Thomson Reuters while reaching their professional development goals.
 
-The second is consistently deliverying user/customer experiences that solve user/customer pain-points on time and with the highest in quality standards. Remember quality usually cannot be rushed.
+The second is consistently deliverying user/customer experiences that solve user/customer pain-points on time (within realistic time expectations) and with the highest in quality standards. Remember quality usually cannot be rushed, but it can be optimized for.
 
-If the business is healthy, and our engineering efforts are on-time, and the teams are motivated, challenged, and moving towards their professional development goals, then all is right in my world
+If the business is healthy, and our engineering efforts are on-time, and the teams are motivated, challenged, and moving towards their professional development goals, then all is right in my world.
 
 A large part of my day will involve collaborating with various people from multiple disciplines from design, technology engineering, product, recruiting, marketing, program management, support, 1x1's (one on ones) or 1:many (aka general meetings).
 
 My work also involves working with multiple agile pods and a decreasing number of waterfall teams, but because I am not an individual contributor nor a first-line manager, I am not directly part of an agile delivery team. As a result, it's less about day-to-day operations, but more about business strategy from a technology perspective, long-term goals, growth, culture and the likes.
 
 # Leadership Philosphy
+
+** Agility
 
 ** Self-motivated
 
