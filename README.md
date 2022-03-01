@@ -55,11 +55,9 @@ Welcome to my User Guide to Working with me! I offer this to you because I recog
 
 # Understanding My Role
 
-[The engineering method is] the strategy for causing the best change in a poorly understood or uncertain situation within the available resources. 
+[The engineering method is] the strategy for causing the best change in a poorly understood or uncertain situation within the available resources and those resources dependent to deliver QCD (Quality, Cost, and Delivery Speed). How can we have it all, you ask? The Answer: Setting our north star principles on "Quality" first.
 
-Quality, Cost, Delivery. How can we have it all, you ask? The Answer: Setting our north star principles on "Quality" first.
-
-While there are a number of things I will be responsible for, there are 2 things that take higher priority than everything else.
+While quality is first, there are a number of things I will be responsible for and 2 things that take higher priority than everything else.
 
 The first is empowering the engineers I manage (as well as influencing the engineers I don't manage) to make the biggest impact possible for Thomson Reuters while reaching their professional development goals.
 
