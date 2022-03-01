@@ -39,10 +39,26 @@ This is a living document, which will change. Please let me know if you have any
 
 Welcome to my User Guide to Working with me! I offer this to you because I recognize that the faster we get to know each other and how we work, the better and stronger our relationship will be, and the more we’ll accomplish together. I encourage you to write your own User Guide so I and your team can learn how to work best with you. This is a living document that will change as I learn more about myself and how we can best support each other.
 
+# Understanding My Role
+
+While there are a number of things I will be responsible for, there are 2 things that take higher priority than everything else.
+
+The first is empowering the engineers I manage (as well as influencing the engineers I don't to make the biggest impact possible for Thomson Reuters, while reaching their professional development goals.
+
+The second is consistently deliverying user/customer experiences that solve user/customer pain-points on time and weith the highest in quality standards.
+
+If the business is healthy, and our engineering efforts are on-time, and the teams are motivated, challenged, and moving towards their professional development goals, then all is right in my world
+
+A large part of my day will involve collaborating with various people from multiple disciplines from design, technology engineering, product, recruiting, marketing, program management, support, 1x1's (one on ones) or 1:many (aka general meetings).
+
+My work also involves working with multiple agile pods and a decreasing number of waterfall teams, but because I am not an individual contributor nor a first-line manager, I am not directly part of an agile delivery team. As a result, it's less about day-to-day operations, but more about business strategy from a technology perspective, long-term goals, growth, culture and the likes.
+
 # Leadership Philosphy
 
 ** Self-motivated
+
 ** Productive
+
 ** Growth Mindset
 
 **Be a lifelong learner**
