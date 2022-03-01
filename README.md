@@ -45,7 +45,7 @@ Welcome to my User Guide to Working with me! I offer this to you because I recog
 
 While there are a number of things I will be responsible for, there are 2 things that take higher priority than everything else.
 
-The first is empowering the engineers I manage (as well as influencing the engineers I don't to make the biggest impact possible for Thomson Reuters, while reaching their professional development goals.
+The first is empowering the engineers I manage (as well as influencing the engineers I don't manage) to make the biggest impact possible for Thomson Reuters, while reaching their professional development goals.
 
 The second is consistently deliverying user/customer experiences that solve user/customer pain-points on time and weith the highest in quality standards.
 
