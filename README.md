@@ -41,6 +41,18 @@ This is a living document, which will change. Please let me know if you have any
 
 Welcome to my User Guide to Working with me! I offer this to you because I recognize that the faster we get to know each other and how we work, the better and stronger our relationship will be, and the more we’ll accomplish together. I encourage you to write your own User Guide so I and your team can learn how to work best with you. This is a living document that will change as I learn more about myself and how we can best support each other.
 
+# UX Engineering (UXE) Tenets 
+
+**Prioritize experiences over features.** Our modular, scalable, and reusable capabilities deliver solutions for our customers' most common and challenging needs.
+
+**Design is not a matter of taste or opinion.** We are objective and never assume we know better. Excellence in design is achieved through customer insights and data.
+
+**Build experiences that are accessible, inclusive, and global.** Our solutions support all our customers regardless of ability, background, or location.
+
+**Deliver simple experiences for complex problems.** Our solutions provide users with clear pathways so they can move confidently through their workflows.
+
+**Release, measure, iterate. Repeat.** Perfect is the enemy of good. The sooner customers experience our solutions, the faster we learn. Those learnings inform future iterations.
+
 # Understanding My Role
 
 While there are a number of things I will be responsible for, there are 2 things that take higher priority than everything else.
@@ -81,7 +93,6 @@ My work also involves working with multiple agile pods and a decreasing number o
 * Team work and etiquette
 * Everything we do is much bigger than ourselves. 
 * Our service to our customers and their experience is number 1!
-
 
 # Feedback
 I firmly believe that feedback is at the core of building trust and respect in a team.
