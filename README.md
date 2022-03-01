@@ -18,10 +18,11 @@ Having been inspired by various posts on the importance of transparency, communi
 
 - Work Email: rob.howard@thomsonreuters.com
 - Work Phone/SMS: (214) 412-8107
-- TheHub: https://thehub.thomsonreuters.com/people/0172450
 - LinkedIn: https://www.linkedin.com/in/mrhoward/
 - Carrollton Office - 2395 Midway Rd, Carrollton, TX 75006
-- Work Hours: Monday - Friday (8am - 5pm CST)
+- Work Hours: Monday - Friday (9am - 5pm CST*) 
+- Lunch hours: Monday - Friday (11am - noon CST*)
+* denotes typical or attempted
 
 
 # First off, welcome! 
