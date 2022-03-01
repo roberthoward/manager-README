@@ -231,7 +231,7 @@ Here are some things I love. If you ever want to shoot the breeze and don't know
 
 <img src = "https://github.com/roberthoward/manager-README/blob/main/jdrf-onewalk2017.PNG" width="200">
 
-* Serial Entreprenuership. In my former life, I served as co-founder for several startups. My start up endevors include - DallasPeeps.com, PartyChaser.com, Nupes.com as well as a few other endevors I have under my belt.
+* Serial Entreprenuership. In my former life, I served as co-founder a tech startup spanning 10 years. My start up endevors (all now defunct) included DallasPeeps.com (an online social network for people in Dallas), PartyChaser.com (an after work / exclusive event network / celebrity events), as well as Nupes.com (a social network I developed for my fraternity - Kappa Alpha Psi Fraternity in 1998 for connecting the global community).
 
 <img src = "https://github.com/roberthoward/manager-README/blob/main/DallasPeeps%20Newspaper%20Cover.jpg" width="200">
 
