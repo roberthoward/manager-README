@@ -61,7 +61,7 @@ While quality is at the top of the list, there are a number of things I will be 
 
 The first is empowering the engineers I manage (as well as influencing the engineers I don't manage) to make the biggest impact possible for and at Thomson Reuters while reaching their professional development goals.
 
-The second is consistently deliverying user/customer experiences that solve user/customer pain-points on time (within realistic time expectations) and with the highest in quality standards. Remember quality usually cannot be rushed, but it can be optimized for.
+The second is consistently delivering user/customer experiences that solve user/customer pain-points on time (within realistic time expectations) and with the highest in quality standards. Remember quality usually cannot be rushed, but it can be optimized for.
 
 If the business is healthy, and our engineering efforts are on-time (within reason), and the teams are motivated, challenged, and moving towards their professional development goals, then all is right in my world.
 
