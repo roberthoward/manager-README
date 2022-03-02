@@ -110,7 +110,22 @@ Review periods are not the only time we’ll exchange feedback. This will be a r
 Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
 
 
-# Meetings
+# Requesting a Meeting with me / DesignOps Leadership #
+
+Please, as a common courtesy when requesting a meeting requiring attendance by members of the DesignOps team would you please include the following table and information included below in the body of the meeting/email invite. Failure to include the below information may reduce the priority on attendance by members of this leadership team as well as IC's on the team.
+
+**Meeting Email Body**
+| Meeting title                             | { What is the main topic of the meeting? }        |
+| Goal of the meeting                       | { What is the end game for this meeting? }        |
+| Meeting Agenda                            | { What are the topics for the meeting? }          |
+| Is this a reoccuring meeting              | { Reoccuring? and for how long? }                 |
+| Timeframe requested (15m / 30m/ 45m+)     | { Meeting length time? }                          |
+| Will this be a document review?           | { If Y, include document link / attachment }      |
+| Regarding a blocking issue impacting timelines? | { If Y, what is the timeline and value? }   |
+| Proposed dates / times (will do our best to accomodate) | { Date and time options }           |
+| Meeting requester                         | { Your name }                                     |
+| Required meeting attendees                | { Names of required individuals }                 |
+
 **Meeting etiquitte** Follow these common rules for proper meeting etiquette: 1) Be punctual. 2) Come prepared. 3) Speak loud enough. 4) Actively listen and participate. 5) Take turns speaking. 6) Follow the agenda. 7) Ask questions at the appropriate time. 8) Be attentive to your body language. 9) Focus, eliminating distractions. 10) If you're hosting a meeting be sure to let everyone know what the meeting is about, followed at the end with concrete action items. If for any reason you have a meeting with me and you need to reschedule or cancel, please notify as early as possible so that we are able to reschedule or cancel.
 
 **I go to a lot of meetings.** I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
