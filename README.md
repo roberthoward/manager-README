@@ -110,7 +110,7 @@ Review periods are not the only time we’ll exchange feedback. This will be a r
 Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
 
 
-# Requesting a Meeting with me / DesignOps Leadership #
+# Requesting a Meeting #
 
 Please, as a common courtesy, when requesting a meeting requiring attendance by members of the DesignOps team would you include the following table and information included below in the body of the meeting/email invite. Failure to include the below information may reduce the priority on attendance by members of this leadership team as well as IC's on the team.
 
