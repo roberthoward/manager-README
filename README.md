@@ -244,11 +244,11 @@ Here are some things I love. If you ever want to shoot the breeze and don't know
 
 <img src = "https://github.com/roberthoward/manager-README/blob/main/family.jpg" width="200">
 
-* Type 1 Diabetes. My family (my daughter Jada) was diagnosed with this life changing disease in 2015 after my daughter's 8th birthday. Since then, my family and I have been active members of the Junior Diabetes Research Foundation (JDRF) organization where I also serve on the community board.
+* Type 1 Diabetes. My family (my daughter Jada) was diagnosed with this life changing disease in 2015 after my daughter's 8th birthday. Since then, my family and I have been active members of the JDRF organization where I also serve on the Dallas/Ft. Worth/Oklahoma leadership board.
 
 <img src = "https://github.com/roberthoward/manager-README/blob/main/jdrf-onewalk2017.PNG" width="200">
 
-* Serial Entreprenuership. In my former life, I served as co-founder a tech startup spanning 10 years. My start up endevors (all now defunct) included DallasPeeps.com (an online social network for people in Dallas), PartyChaser.com (an after work / exclusive event network / celebrity events), as well as Nupes.com (a social network I developed for my fraternity - Kappa Alpha Psi Fraternity in 1998 for connecting the global community).
+* Serial Entreprenuership. In my former life, I served as co-founder of a small tech startup spanning 10 years. My start up endevors included (all now defunct) DallasPeeps (an online social network for people in Dallas), PartyChaser (an after work / exclusive event network / celebrity events), as well as Nupes.com (a social network I developed for my fraternity - Kappa Alpha Psi Fraternity).
 
 <img src = "https://github.com/roberthoward/manager-README/blob/main/DallasPeeps%20Newspaper%20Cover.jpg" width="200">
 
@@ -260,5 +260,5 @@ Here are some things I love. If you ever want to shoot the breeze and don't know
 * Technology. I'm always trying to stay ahead of the curve in technology and innovation. My weekends, when not spending time with family or friends, is spent learning on sites like udemy.com, coursera.com, educative.io to name a few. I've started to explore Machine Learning and AI (on the surface) and also helping my son in his current pursuit of getting a Computer Science degree once he graduates high school. I aspire to build something that I can learn from so I'm challenging myself with building out an app that includes multiple distributed services.
 
 # Thank You
-Thank you for taking the time to review my README. This document is new and still a work in progress. I’d love your feedback
+Thank you for taking the time to review my README. This document is new and still a work in progress (please forgive me for any t/pos). I’d love your feedback
 
