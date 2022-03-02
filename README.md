@@ -112,7 +112,7 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 # Requesting a Meeting with me / DesignOps Leadership #
 
-Please, as a common courtesy, when requesting a meeting requiring attendance by members of the DesignOps team would you please include the following table and information included below in the body of the meeting/email invite. Failure to include the below information may reduce the priority on attendance by members of this leadership team as well as IC's on the team.
+Please, as a common courtesy, when requesting a meeting requiring attendance by members of the DesignOps team would you include the following table and information included below in the body of the meeting/email invite. Failure to include the below information may reduce the priority on attendance by members of this leadership team as well as IC's on the team.
 
 **Meeting Email Body**
 | -                                         | -                                                 |                                          
