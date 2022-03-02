@@ -1,7 +1,7 @@
 # Leadership-README
 <img src = "https://github.com/roberthoward/manager-README/blob/main/thomsonreuters_logo.PNG" width="100" ALIGN="left">
 
-I am Rob Howard, UX Engineering Director within the Thomson Reuters Design (https://trten.sharepoint.com/sites/DesignOperations) - Design UX Engineering. I began my career at Thomson Reuters in 2013 as a software engineer in the Tax & Accounting business segment. I am a native of Dallas, Texas in the United States and headquartered at the Carrollton - Thomson Reuters HQ office in the Central time zone (CST). Please view this README as a representation of my managerial philosophy.
+I am Rob Howard, UX Engineering Director within the Thomson Reuters Design Operations team (https://trten.sharepoint.com/sites/DesignOperations). I began my career at Thomson Reuters in 2013 as a software engineer in the Tax & Accounting business segment. I am a native of Dallas, Texas in the United States and headquartered at the Carrollton - Thomson Reuters HQ office in the Central time zone (CST). Please view this README as a representation of my managerial philosophy.
 
 It's going to take a solid quarter to fully figure our working relationship out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all the TR acronyms, cross-functional teams, and project code names.
 
