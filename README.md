@@ -1,5 +1,5 @@
 # Leadership-README
-<img src = "https://github.com/roberthoward/manager-README/blob/main/thomsonreuters_logo.PNG" width="100" ALIGN="left">
+<img src = "https://github.com/roberthoward/manager-README/blob/main/thomsonreuters_logo.PNG" width="100" align="left" Alt="Thomson Reuters Logo">
 
 I am Rob Howard, UX Engineering Director within the Thomson Reuters Design Operations team (https://trten.sharepoint.com/sites/DesignOperations). I began my career at Thomson Reuters in 2013 as a software engineer in the Tax & Accounting business segment. I am a native of Dallas, Texas in the United States and headquartered at the Carrollton - Thomson Reuters HQ office in the Central time zone (CST). Please view this README as a representation of my managerial philosophy.
 
@@ -14,7 +14,7 @@ I urge you to hold me accountable to my promises, and to call out anything that 
 Having been inspired by various posts on the importance of transparency, communication and openness from the leadership side of engineering, I’ve decided to kick things off here with a living document to aid development of our relationship. An accompanying PowerPoint deck is also available for [review here](https://trten-my.sharepoint.com/:p:/g/personal/rob_howard_thomsonreuters_com/ETbwKYE_TBtLsVHv48-vNPYBQ9wFxTkoTe7Oc8VZgamssA?e=DGWpJB).
 
 # Contact Information
-<img src ="https://github.com/roberthoward/manager-README/blob/main/Rob%20-%20profile.jpg" width="100">
+<img src ="https://github.com/roberthoward/manager-README/blob/main/Rob%20-%20profile.jpg" width="100" alt="Distinguished African American gentleman posing in headshot">
 
 - Work Email: rob.howard@thomsonreuters.com
 - Work Phone/SMS: (214) 412-8107
@@ -130,6 +130,8 @@ Please, as a common courtesy, when requesting a meeting requiring attendance by 
 
 **Meeting etiquitte** Follow these common rules for proper meeting etiquette: 1) Be punctual. 2) Come prepared. 3) Speak loud enough. 4) Actively listen and participate. 5) Take turns speaking. 6) Follow the agenda. 7) Ask questions at the appropriate time. 8) Be attentive to your body language. 9) Focus, eliminating distractions. 10) If you're hosting a meeting be sure to let everyone know what the meeting is about, followed at the end with concrete action items. If for any reason you have a meeting with me and you need to reschedule or cancel, please notify as early as possible so that we are able to reschedule or cancel.
 
+<img src = "https://github.com/roberthoward/manager-README/blob/main/meeting-et.PNG" alt="Meeting etiquette list of top 9 items similiar to the text aboce.">
+
 **I go to a lot of meetings.** I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
 **My definition of a meeting includes an agenda and/or intended purpose,** the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer to start on time. If I am running a meeting, I will start that meeting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance.
@@ -242,19 +244,19 @@ Here are some things I love. If you ever want to shoot the breeze and don't know
 
 * Family and raising a family. My wife [parks & rec / community], my 2 children (Robbie [computer science] - age 17 and Jada age 15 [medical, legal] ) along with our furbaby (Princess - age 8 / Rocky - at age 11 passed Jan 2, 2022) are my joy and give me life every single day. I'm always happy to pick up new parenting tips as well as sharing tips.
 
-<img src = "https://github.com/roberthoward/manager-README/blob/main/family.jpg" width="200">
+<img src = "https://github.com/roberthoward/manager-README/blob/main/family.jpg" width="200" alt="4 beautiful people in a family photo">
 
 * Type 1 Diabetes. My family (my daughter Jada) was diagnosed with this life changing disease in 2015 after my daughter's 8th birthday. Since then, my family and I have been active members of the JDRF organization where I also serve on the Dallas/Ft. Worth/Oklahoma leadership board.
 
-<img src = "https://github.com/roberthoward/manager-README/blob/main/jdrf-onewalk2017.PNG" width="200">
+<img src = "https://github.com/roberthoward/manager-README/blob/main/jdrf-onewalk2017.PNG" width="200" alt="Walk team photo of multiple walkers at the JDRF One Walk">
 
 * Serial Entreprenuership. In my former life, I served as co-founder of a small tech startup spanning 10 years. My start up endevors included (all now defunct) DallasPeeps (an online social network for people in Dallas), PartyChaser (an after work / exclusive event network / celebrity events), as well as Nupes.com (a social network I developed for my fraternity - Kappa Alpha Psi Fraternity).
 
-<img src = "https://github.com/roberthoward/manager-README/blob/main/DallasPeeps%20Newspaper%20Cover.jpg" width="200">
+<img src = "https://github.com/roberthoward/manager-README/blob/main/DallasPeeps%20Newspaper%20Cover.jpg" width="200" alt="DFW Quick Magazine cover with Rob Howard and Ron King on the cover - April 2006">
 
 * I also spend my time volunteering as a member of Kappa Alpha Psi Fraternity, an African American fraternal organization founded in 1911 on the campus of Indian University, as well as serving as a member of the Mosier Valley Prince Hall Masonry, a branch of North American Freemasonry for African Americans founded by Prince Hall on September 29, 1784.
 
-<img src = "https://github.com/roberthoward/manager-README/blob/main/20190214_121325.jpg" width="200">
+<img src = "https://github.com/roberthoward/manager-README/blob/main/20190214_121325.jpg" width="200" alt="Diversity and inclusion is important and this photo represents that">
 
 * Diversity and Inclusion. As you may be able to tell, I'm an American and member of the African American community and can say that I have not been immune to discrimination  in my past. I serve as advisor to the local Black Employee Network (BEN) Thomson Reuters business resource group. I implore anyone seeking insight into this community to feel comfortable reaching out to me rather it's helping to share a job req to chatting about how you can be an ally. I'm always looking at opportunities to conversate and bridge the gap between diversity and inclusion at TR. I recently kicked off a teams channel within Digital called "The Water Cooler" to provide a safe space for people to share things happening in the news affecting different groups, as well as talk about topics that help to bridge the gap. In addition I spend my time on the community board for Blacks In Technology (BIT) DFW as well as Black Tutors of Social Media.
 * Technology. I'm always trying to stay ahead of the curve in technology and innovation. My weekends, when not spending time with family or friends, is spent learning on sites like udemy.com, coursera.com, educative.io to name a few. I've started to explore Machine Learning and AI (on the surface) and also helping my son in his current pursuit of getting a Computer Science degree once he graduates high school. I aspire to build something that I can learn from so I'm challenging myself with building out an app that includes multiple distributed services.
