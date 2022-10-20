@@ -69,7 +69,7 @@ A large part of my day will involve collaborating with various people from multi
 
 My work also involves working with multiple agile pods and an exciting decrease in waterfall teams, but because I am not an individual contributor nor a first-line manager, I am not directly part of an agile delivery team. As a result, it's less about day-to-day operations, but more about business strategy from a technology perspective, long-term goals, growth, culture and the likes.
 
-# Leadership Philosphy
+# Leadership Philosophy
 
 ** Agility
 
